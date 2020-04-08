@@ -37,6 +37,7 @@ class Contact extends Component {
         console.log("Current state is: " + JSON.stringify(values));
         alert("Current state is: " + JSON.stringify(values));
     }
+    
     render() {
 
         return(
